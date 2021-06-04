@@ -1,4 +1,4 @@
 # 【WIP】ts-any-detector-plugin
-Detector any in your code!
+Detect any in your code!
 
 ![preview](docs/as_any.gif)
