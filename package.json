@@ -1,0 +1,9 @@
+{
+  "name": "ts-any-detector-plugin",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
